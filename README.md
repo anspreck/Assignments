@@ -17,13 +17,15 @@ For this project, you will expand upon a template using what you learned in this
 
 ## Part 1: Improve the Template
 1. Open the **template.html** file.
+0. **Update the multi-lined comment** with your **Course Name** and **Section Number**.
+0. **Update the title element** with the following information:
+   {YourMEID} - Template 
+   > Replace the {YourMEID} with your actual MEID, like the following example: **ABC1234567 - Template**
 0. **Add metadata** elements to define the following elements: 
     - Define the `character encoding` as `UTF-8`. 
     - Define the `author` using your `first` and `last` names.
     - Add `metadata` elements for `key terms` and `descriptions`. Leave the `content` attribute empty for each element. You will be adding content in Part 2 of this project.
-
 0.  **Create a header element**, then complete the following within it:
-    - **Update the multi-lined comment** with your **Course Name** and **Section Number**.
     - **Add a first level heading** after the multi-line comment. 
     - **Add a single paragraph** after the first level heading. 
         - Within the paragraph, write a simple quote that you find inspirational/educational to keep you motivated (*e.g., "A mind once stretched by a new idea never regains its original dimensions"*).
@@ -38,9 +40,9 @@ For this project, you will expand upon a template using what you learned in this
     - **Create a paragraph** filled with dummy text.
 
 0. **Create a footer element**, then complete the following within it:
-    - **Add a paragraph element** to display the following copyright info: `Copyright {CurrentYear}`
-        > **TIP:** Replace {CurrentYear} with the current year.
-        - **Add a copyright symbol** between the text "Copyright" and the year. 
+    - **Add a paragraph element** to display the following copyright info: `Copyright by {FirstName} {LastInitial} {CurrentYear}`
+        > **TIP:** Replace {FirstName}, {LastInitial}, {CurrentYear} with your actual information and current year.
+        - **Add a copyright symbol** between your last name initial and the year. 
             > If you have trouble remembering how to create a copyright symbol, review [Character Entity References](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/hypertext-markup-language#Character-Entity-References) from Lesson 3.
         - **Apply an appropriate text-level semantic element** so the copyright information displays as small print.
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
@@ -51,22 +53,23 @@ For this project, you will expand upon a template using what you learned in this
 
 ## Example Project
 This is an example of what the project should look like before you move on to Part 2.
-![Screenshot of Template.html page](https://via.placeholder.com/900x400.png?text=placeholder)
+
+![Screenshot of template.html page](https://i.imgur.com/B3AVWYP.png)
 
 <br>
 
 ## Part 2: Create a Poetry Page
-For this part of your assignment, you will use text-level semantics to demonstrate when to properly use the tags included in HTML5 that adds context to words, sentences, or symbols. 
+For this part of your assignment, you will use the template you created in Part 1 to demonstrate when to properly use text-level semantic tags.
 
 ## Project Prep
 
 1. Use your Internet researching skills to find a poem that has multiple stanzas. A stanza is a group of lines that forms a pattern of meter and rhyme - like a verse in a song.
-2. Save the following information in a separate document:
+2. Save the following information in a separate document, you may use this to reference later (you do not need to save this document or submit for grading):
     - The link to the webpage
     - The title of the web page
     - The title of the poem
     - The author's name
-    - And the text of the poem
+    - All text in the poem
 
 
 ## Create the Poetry Page
@@ -90,6 +93,7 @@ For this part of your assignment, you will use text-level semantics to demonstra
     - **Paste the text of the poem** you found in the Project Prep steps and use separate `paragraphs` for each stanza in the poem.
     - **Add a final paragraph** with the text: `Source - {Title of the web page}`
         > **TIP:** Use the actual title of the web page where you found the poem.
+    - **Make the text small**.    
     - **Add a comment** after the final paragraph with the URL to the poem.
 
 0. **Demonstrate text-level semantics** by making the following changes to your poem:
@@ -104,7 +108,7 @@ For this part of your assignment, you will use text-level semantics to demonstra
 
 ## Example Project
 This is an example of what the project should look like before you submit it for grading.
-![Screenshot of Template.html page](https://via.placeholder.com/900x400.png?text=placeholder)
+![Screenshot of Template.html page](https://i.imgur.com/LFupMIC.png)
 
 <br>
 
@@ -120,4 +124,4 @@ Before you submit your project:
    - Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
    - Put a note to your instructor that the assignment is ready to grade.
 0. Click on the `Comment` button to finalize and submit your assignment to GitHub for review.
-0. Lastly, submit the Project to your Gradebook using the steps within Assessing Your Learning.
+0. Lastly, submit the Project to your **Gradebook** using the steps within **Assessing Your Learning** in Lesson 4.
