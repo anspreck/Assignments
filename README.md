@@ -24,27 +24,32 @@ For this project, you will expand upon a template using what you learned in this
 0. **Add metadata** elements to define the following elements: 
     - Define the `character encoding` as `UTF-8`. 
     - Define the `author` using your `first` and `last` names.
-    - Add `metadata` elements for `key terms` and `descriptions`. Leave the `content` attribute empty for each element. You will be adding content in Part 2 of this project.
+    - Add `metadata` elements for `keywords` and `descriptions`. Leave the `content` attribute empty for each element. You will be adding content in Part 2 of this project.
 0.  **Create a header element**, then complete the following within it:
-    - **Add a first level heading** after the multi-line comment. 
+    - **Add a first level heading** after the opening tag that reads: `Basic Template`.
     - **Add a single paragraph** after the first level heading. 
         - Within the paragraph, write a simple quote that you find inspirational/educational to keep you motivated (*e.g., "A mind once stretched by a new idea never regains its original dimensions"*).
-        - **Apply an appropriate text-level semantic element** to the quote to change it's appearance to italic.
-    - **Create a navigation menu** after the slogan paragraph.
-    - **Create a hyperlink** within the navigation menu using the following:
-        - For the `display` text: `Placeholder Link`
-        - For the `target` page: use a `hashtag (i.e., #)`. This will make the link clickable, but not navigate away from the current page. 
+        - **Apply an appropriate text-level semantic element** to the quote to change its appearance to italic. The text should appear in italics, but should not have emphasized importance.
+    - **Create a navigation menu** using the NAV element after the slogan paragraph.
+      - **Create a hyperlink** within the navigation menu using the following:
+        - For the display text: `Placeholder Link`
+        - For the target page: use a `hashtag (i.e., #)`. This will make the link clickable, but not navigate away from the current page.
+    - **Save** the file. Apply a **Commit** that says, `Header element created`.
 
-0. **Create a main element,** then complete the following within it:
+0. **Create a main element,** following the HEADER element. Enter the following within the MAIN element:
     - **Add a second level heading** after the opening tag that reads: `Content Heading`
-    - **Create a paragraph** filled with dummy text.
+    - **Create a paragraph** filled with dummy text following the heading. 
+         > **TIP:** Use an Emmet abbreviation to generate lorem ipsum. Simply type `lorem#` to generate # words of dummy text (Replace # with the number of words you want to generate.)
+    - **Save** the file. Apply a **Commit** that says, `Main element created`.
 
-0. **Create a footer element**, then complete the following within it:
+
+0. **Create a footer element**, following the MAIN element. Enter the following within the FOOTER element:
     - **Add a paragraph element** to display the following copyright info: `Copyright by {FirstName} {LastInitial} {CurrentYear}`
         > **TIP:** Replace {FirstName}, {LastInitial}, {CurrentYear} with your actual information and current year.
-        - **Add a copyright symbol** between your last name initial and the year. 
-            > If you have trouble remembering how to create a copyright symbol, review [Character Entity References](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/hypertext-markup-language#Character-Entity-References) from Lesson 3.
+        - **Add a copyright symbol** between your last name initial and the year. If you have trouble remembering how to create a copyright symbol, review [Character Entity References](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/hypertext-markup-language#Character-Entity-References) from Lesson 3.
         - **Apply an appropriate text-level semantic element** so the copyright information displays as small print.
+     - **Save** the file. Apply a **Commit** that says, `Footer element created`.
+
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
 0. Remember to save your work!
