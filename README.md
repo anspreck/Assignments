@@ -79,8 +79,8 @@ For this part of your assignment, you will use the template you created in Part 
 
 ## Create the Poetry Page
 
-1. If necessary, open the template.html file in your Lesson 4 course folder.
-0. Save the template in the same Lesson 4 folder as `poetry.html`
+1. If necessary, open the template.html file you created in Part 1 above.
+0. Save the template as `poetry.html`. The file should be saved in the same folder as the template.html folder. This is the default folder where all GitHub classroom files are saved.
 0. **Update the metadata** on the page:
     - Update the page **title** to follow this format: `{FirstName}'s Poetry Page`.
         > **TIP:** Replace {FirstName} with your actual first name.
@@ -110,6 +110,8 @@ For this part of your assignment, you will use the template you created in Part 
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
 0. Remember to save your work!
+- **Save** the file. Apply a **Commit** that says, `Poetry page created`.
+
 
 ## Example Project
 This is an example of what the project should look like before you submit it for grading.
@@ -123,10 +125,10 @@ Before you submit your project:
 0. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
 0. Verify that all files appear on GitHub.
 
-   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-computer-technology](https://github.com/rsc-computer-technology). You can bookmark the page for future reference. 
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [Rio Salado CIS133DA]([https://github.com/rsc-computer-technology](https://github.com/rsc-cis133DA-in-v12)). You can bookmark the page for future reference. 
 0. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
 0. In the comment field, 
    - Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
    - Put a note to your instructor that the assignment is ready to grade.
 0. Click on the `Comment` button to finalize and submit your assignment to GitHub for review.
-0. Lastly, submit the Project to your **Gradebook** using the steps within **Assessing Your Learning** in Lesson 4.
+0. Lastly, submit the Project to your **Gradebook** using the steps on the **Assessing Your Learning** page in Lesson 4.
