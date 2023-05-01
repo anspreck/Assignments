@@ -109,8 +109,7 @@ For this part of your assignment, you will use the template you created in Part 
 
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
-0. Remember to save your work!
-- **Save** the file. **Sync** the file to GitHub and apply a **Commit** that says, `Poetry page created`.
+0. **Save** the file. **Sync** the file to GitHub and apply a **Commit** that says, `Poetry page created`.
 
 
 ## Example Project
