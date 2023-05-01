@@ -34,13 +34,13 @@ For this project, you will expand upon a template using what you learned in this
       - **Create a hyperlink** within the navigation menu using the following:
         - For the display text: `Placeholder Link`
         - For the target page: use a `hashtag (i.e., #)`. This will make the link clickable, but not navigate away from the current page.
-    - **Save** the file. Apply a **Commit** that says, `Header element created`.
+    - **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Header element created`.
 
 0. **Create a main element,** following the HEADER element. Enter the following within the MAIN element:
     - **Add a second level heading** after the opening tag that reads: `Content Heading`
     - **Create a paragraph** filled with dummy text following the heading. 
          > **TIP:** Use an Emmet abbreviation to generate lorem ipsum. Simply type `lorem#` to generate # words of dummy text (Replace # with the number of words you want to generate.)
-    - **Save** the file. Apply a **Commit** that says, `Main element created`.
+    - **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Main element created`.
 
 
 0. **Create a footer element**, following the MAIN element. Enter the following within the FOOTER element:
@@ -48,11 +48,11 @@ For this project, you will expand upon a template using what you learned in this
         > **TIP:** Replace {FirstName}, {LastInitial}, {CurrentYear} with your actual information and current year.
         - **Add a copyright symbol** between your last name initial and the year. If you have trouble remembering how to create a copyright symbol, review [Character Entity References](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/hypertext-markup-language#Character-Entity-References) from Lesson 3.
         - **Apply an appropriate text-level semantic element** so the copyright information displays as small print.
-     - **Save** the file. Apply a **Commit** that says, `Footer element created`.
+     - **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Footer element created`.
 
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
-0. Remember to save your work!
+0. Make any necessary changes, then **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Final edits done. Part 1 completed`
 
 <br>
 
@@ -110,7 +110,7 @@ For this part of your assignment, you will use the template you created in Part 
 0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
 0. Remember to save your work!
-- **Save** the file. Apply a **Commit** that says, `Poetry page created`.
+- **Save** the file. **Sync** the file to GitHub and apply a **Commit** that says, `Poetry page created`.
 
 
 ## Example Project
@@ -123,8 +123,8 @@ This is an example of what the project should look like before you submit it for
 Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
 
    > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
-1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-2. **Sync** the changes and apply a **Commit**.
+1. Review your work and make any necessary updates. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
 3. Verify that all files appear on GitHub.
 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
