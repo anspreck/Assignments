@@ -79,8 +79,8 @@ For this part of your assignment, you will use the template you created in Part 
 
 ## Create the Poetry Page
 
-1. If necessary, open the template.html file you created in Part 1 above.
-0. Save the template as `poetry.html`. The file should be saved in the same folder as the template.html folder. This is the default folder where all GitHub classroom files are saved.
+1. Open the **template.html** file.
+2. Copy the template.html file and rename the copied file as `poetry.html`. The file should be in the same folder as the template.html folder.
 0. **Update the metadata** on the page:
     - Update the page **title** to follow this format: `{FirstName}'s Poetry Page`.
         > **TIP:** Replace {FirstName} with your actual first name.
