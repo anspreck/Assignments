@@ -107,7 +107,7 @@ For this part of your assignment, you will use the template you created in Part 
     - **Add a comment** next to the line that explains why you found the text important.
     - **Add a comment** near the slogan paragraph within the header. Compare the text-level semantic tag you added to the slogan paragraph with the poetry line you highlighted as important and explain why each tag is the most appropriate tag to use.
 
-0. Within VS Code, correct any validation errors that may appear in your code using the [Web Development Student Extension Pack](https://marketplace.visualstudio.com/items?itemName=RioSaladoCollegeMedia.web-development-student-pack) you installed in Lesson 0: Course Introduction.
+0. Within VS Code, correct any validation errors that may appear in your code. In the Course Introduction, you should have installed several extensions for VS Code that can be used to validate your code.  
     - You may ignore any warnings that may appear with your files. However, you are required to correct any and ***all*** validation **errors**.
 0. **Save** the file. **Sync** the file to GitHub and apply a **Commit** that says, `Poetry page created`.
 
